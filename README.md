@@ -1,4 +1,5 @@
 # Stock-prediction---web-app
+
 ## Instructions: <br>
 1) Clone the repository <br>
 2) Navigate to the directory of the cloned repo<br>
